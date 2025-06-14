@@ -1,0 +1,4 @@
+{"name": "athao_25", "decisions": ["Followed the path", "Swam across"], "outcome": "You are tired but find the artifact on the riverbank."}
+{"name": "athao", "decisions": ["Climbed a tree", "Crossed the bridge"], "outcome": "You reach the cave and discover the artifact inside."}
+{"name": "a", "decisions": ["Followed the path", "Crossed the bridge"], "outcome": "You find the artifact in a hidden shrine!"}
+{"name": "adfadf", "decisions": ["Climbed a tree", "Swam across"], "outcome": "You get lost but stumble upon the artifact by chance."}
