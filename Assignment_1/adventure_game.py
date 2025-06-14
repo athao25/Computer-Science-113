@@ -128,7 +128,7 @@ def main():
             "decisions": decisions,
             "outcome": outcome
         }
-        with open("adventure_results.json", "a") as f:
+        with open("Assignment_1/adventure_results.json", "a") as f:
             f.write(json.dumps(game_data) + "\n")
 
         # Replay option
